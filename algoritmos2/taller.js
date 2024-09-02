@@ -16,6 +16,7 @@ gravedad terrestre en m, guarde tal valor en una constante
 y a continuación imprima un mensaje al usuario 
 confirmando el valor de la gravedad introducida*/
 
+/*
 const gravedad = prompt("Ingrese la gravedad de la tierra");
 const gravity = 9.8;
 
@@ -27,7 +28,7 @@ if (gravity === parseFloat(gravedad)) {
 
 /*Cree un programa que pida al usuario su edad, domicilio y 
 estado civil, a continuación, confirme al usuario los valores 
-introducidos por éste.*/
+introducidos por éste.
 
 const edad = prompt("Ingrese su edad");
 const domicilio = prompt("Ingrese su domicilio");
@@ -46,4 +47,6 @@ const dia = fecha.getDate();
 const mes = fecha.getMonth() + 1; // Los meses en JavaScript van de 0 a 11, por eso sumamos 1
 
 // Mostrar un mensaje al usuario con el día de su cumpleaños
-console.log("Tu cumpleaños es el día " + dia + " del mes " + mes + ".");
+console.log("Tu cumpleaños es el día " + dia + " del mes " + mes + ".");*/
+
+console.log();
